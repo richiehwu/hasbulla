@@ -25,13 +25,10 @@ function App() {
         punt
       </button>
       <button onClick={minus}>
-        reduce
+        save hasbulla
       </button>
       <div>
-        <a href='https://www.google.com'>
-          hello
-        </a>
-        <img src='https://www.mansworldindia.com/wp-content/uploads/2022/06/Hasbulla.jpg' alt="Hasbulla with glasses"/>
+        <img src='https://www.mansworldindia.com/wp-content/uploads/2022/06/Hasbulla.jpg' alt="Hasbulla with glasses"style={{width: "100%"}} />
 
 
       </div>
